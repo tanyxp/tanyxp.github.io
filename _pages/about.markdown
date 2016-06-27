@@ -9,4 +9,4 @@ Hi! My name is Nathaniel Arellano, and I am a Software Engineer in San Diego. I 
 
 ### Contact info
 
-{{ site.email }}
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
