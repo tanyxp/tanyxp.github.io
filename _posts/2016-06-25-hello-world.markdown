@@ -7,8 +7,7 @@ categories: update
 **Posted on {{ page.date | date: "%b %d, %Y" }} &mdash;**
 
 <img src="/../_images/hello-world.jpg" alt="hello world"/>
-Hello
-<p>Traditionally, when a developer is learning a new language, the first application they
+<p>edit Traditionally, when a developer is learning a new language, the first application they
  create is the 'Hello World!' application. Well, here's mine. I'm coming to a couple of firsts here.
   I've never used <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> to create a blog, made a personal website, bought a domain, written a blog post,
    used <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> to host a website, and other things I can't remember right now.
