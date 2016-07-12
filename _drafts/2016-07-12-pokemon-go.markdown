@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meet your new travel agent; Pokémon GO!"
+title:  "Say \"Hello!\" to your new travel agent Pokemon GO!"
 date:   2016-07-11 05:30:00
 categories: update
 ---
