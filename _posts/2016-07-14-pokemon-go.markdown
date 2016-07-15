@@ -23,8 +23,7 @@ Pok&#233;mon Go!
 
 <p>
 Just today, I took a walk around my town, which I've lived in for over twenty
-years, and I was amazed at what my little town had to offer. Every town has something
-amazing to offer, if you take the time to look. Today I went on what I call "Pok&#233;Walkies"
+years, and I was amazed at what my little town had to offer. Today I went on what I call "Pok&#233;Walkies"
 in an effort to become one of many Pok&#233;mon Masters. I knew that the Pok&#233;Stops and
 Pok&#233;mon spawn more frequently in populated
 areas, so I set course for Downtown. I could have driven the short mile and saved myself some time, 
@@ -55,7 +54,7 @@ there were so many people varying in age, race, and gender. Even more surprising
 was that they were all socializing! I ended up walking around for five miles and
 two hours! I found some players that were from my same faction, go Team Mystic, and
 we walked around conquering Gyms together. With each Pok&#233;Stop I went to, I would
-discover a new statue, community garden, or museum. I was having a blast touring my town!
+discover a new statue, community garden, museum, or other monuments. I was having a blast touring my town!
 Eventually the sun began to drift below the horizon and I decided to head home before the streets began to darken any further.
 </p>
 
