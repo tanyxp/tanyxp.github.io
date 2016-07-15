@@ -60,3 +60,7 @@ reading a self help book, or talking to someone that is more outgoing than you. 
 improve your life greatly. You will no longer dread talking in front of people and will
 enjoy contributing to conversations or meetings at work. Just remember these sage words that helped me realize my potential: "You gotta fake it 'til you make it."
 </p>
+
+<p>
+~Nathaniel
+</p>

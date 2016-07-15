@@ -25,3 +25,7 @@ Not much, probably. If anything, a laugh at my expense or at something I wrote.
 Although, I will not limit myself to that. I have many other joys, such as working on my car,
 playing music, building Gundam models, playing Dungeons & Dragons, listening to fantasy books,
 reading manga, watching anime, and much more!</p>
+
+<p>
+~Nathaniel
+</p>
