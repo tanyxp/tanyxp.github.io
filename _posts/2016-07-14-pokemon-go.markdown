@@ -6,9 +6,7 @@ categories: update
 ---
 **Posted on {{ page.date | date: "%b %d, %Y" }} &mdash;**
 
-<div style="padding-right: inherit; padding-left: inherit;">
-  <img src="{{ site.url }}/_images/Pokemon-go.jpg" alt="Pokemon go"/>
-</div>
+<img src="{{ site.url }}/_images/Pokemon-go.jpg" alt="Pokemon go"/>
 
 <p>
 Pok&#233;mon Go has taken the nation, no, the world by storm! Friends and family you
@@ -38,9 +36,7 @@ that will grant the player free items. Most people know this, but what is often
 overlooked is that these Pok&#233;Stops hold some pretty interesting sights.
 </p>
 <br/>
-<div style="padding-right: inherit; padding-left: inherit;">
-  <img src="{{ site.url }}/_images/Pokemon-go-2.png" alt="Pokemon go"/>
-</div>
+<img src="{{ site.url }}/_images/Pokemon-go-2.png" alt="Pokemon go"/>
 <br/>
 <p>
 On my walk to the Downtown area, I found myself discovering completely new sights and
