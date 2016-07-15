@@ -60,7 +60,7 @@ Eventually the sun began to drift below the horizon and I decided to head home b
 
 <p>
 As I sit here writing this post, I am extremely happy with my experience today.
-Not only did I gain many items and Pok&#233;mon in the game, but I got my daily steps in and gained a new found appreciation for the town I call Home. I don't know how long this phenomenon
+Not only did I gain many items and Pok&#233;mon, but I got my daily steps in and gained a new found appreciation for the town I call Home. I don't know how long this phenomenon
  will last, but I am happy that players all over are experiencing moments like this. If you haven't
 been introduced to the Pok&#233;mon Go excitement, I would recommend it just for the fact
 that you can re-discover new and interesting sights in your once familiar town. 
